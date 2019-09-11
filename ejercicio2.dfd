@@ -1,0 +1,40 @@
+ Dfd (c)
+1
+1
+1
+0
+0
+4
+1
+52
+'Verificar si un promedio de 3 numeros es mayor a 6'
+4
+1
+17
+'Ingrese valores'
+5
+1
+5
+a,b,c
+6
+1
+8
+Promedio
+7
+(a+b+c)
+7
+0
+1
+11
+(a+b+c)/3>6
+4
+1
+16
+'no es mayor:',6
+13
+4
+1
+16
+'si es mayor:',6
+13
+1
